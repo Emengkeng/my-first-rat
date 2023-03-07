@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "24YJHlwfEh7gfv8OzTcT3Oi1dGyAhiyTS8MBbqfTW58NDr/t9gw99WTQVPKD/BMHaZvFcK445saDHPa+W8DwQA==",
+  "success": true,
+  "projectFilePath": "/home/jussy/Desktop/viruses/Learnig_malwae/Learnig_malwae.csproj",
+  "expectedPackageFiles": [
+    "/home/jussy/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/jussy/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/jussy/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/jussy/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/jussy/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/jussy/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
